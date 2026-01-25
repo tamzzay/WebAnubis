@@ -29,7 +29,7 @@ Perfect for students, beginners, red teamers, and anyone who wants a simple and 
 ---
 ### 📦 Installation
 
-git clone https://github.com/yourusername/WebSpectreScanner.git
+git clone https://github.com/tamzzay/WebSpectreScanner.git
 
 cd WebSpectreScanner
 
